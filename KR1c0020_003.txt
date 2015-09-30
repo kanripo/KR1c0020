@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩講義
-#+DATE: 2015-09-23 09:36:39
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:04:56.818999
+#+PROPERTY: ID KR1c0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1c0020_WYG_003-1a>¶
 欽定四庫全書¶
 　毛詩講義卷三　　　　　宋　林岊　撰¶
@@ -754,4 +756,3 @@
 於我乎夏屋渠渠今也毎食無餘于嗟乎不承權輿¶
 於我乎毎食四簋今也毎食不飽于嗟乎不承權輿(按/此)¶
 (萹永樂大/典缺卷)¶
-

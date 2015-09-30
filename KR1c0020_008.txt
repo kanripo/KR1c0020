@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩講義
-#+DATE: 2015-09-23 09:36:39
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:04:56.940446
+#+PROPERTY: ID KR1c0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1c0020_WYG_008-1a>¶
 欽定四庫全書¶
 　毛詩講義卷八　　　　　　宋　林岊　撰¶
@@ -824,4 +826,3 @@
 <pb:KR1c0020_WYG_008-46b>¶
 命有如召公日辟國百里今也日蹙國百里於乎哀哉¶
 維今之人不尚有舊(按此篇永樂/大典缺卷)¶
-

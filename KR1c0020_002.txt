@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩講義
-#+DATE: 2015-09-23 09:36:39
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:04:56.801380
+#+PROPERTY: ID KR1c0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1c0020_WYG_002-1a>¶
 欽定四庫全書¶
 　毛詩講義卷二　　　　　　　宋　林岊　撰¶
@@ -492,4 +494,3 @@
 　賢者隠約乎其間周人之所思也将其來施施舒行¶
 　之意來食不屑棄我也貽我佩玖石而次玉黑色者¶
 　好我也¶
-

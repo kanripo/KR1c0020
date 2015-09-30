@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩講義
-#+DATE: 2015-09-23 09:36:39
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:04:57.032808
+#+PROPERTY: ID KR1c0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1c0020_WYG_012-1a>¶
 欽定四庫全書¶
 　毛詩講義卷十二　　　　　宋　林岊　撰¶
@@ -676,4 +678,3 @@
 　不禘王者禘其祖之所自出而以其祖配之周人禘¶
 　嚳於其廟以稷配商人禘嚳於其廟其以契配歟¶
 殷武祀高宗也¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩講義
-#+DATE: 2015-09-23 09:36:39
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:04:56.870745
+#+PROPERTY: ID KR1c0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1c0020_WYG_005-1a>¶
 欽定四庫全書¶
 　毛詩講義卷五　　　　　宋　林岊　撰¶
@@ -860,4 +862,3 @@
 <pb:KR1c0020_WYG_005-48b>¶
 以敗　不敢暴虎不敢馮河人知其一莫知其他戰戰¶
 兢兢如臨深淵如&KR0130;薄冰(按此萹永樂/大典缺卷)¶
-
